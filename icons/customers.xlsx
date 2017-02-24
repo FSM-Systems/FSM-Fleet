@@ -1,0 +1,105 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns="http://www.w3.org/TR/REC-html40"><head><!--[if gte mso 9]><xml><x:ExcelWorkbook><x:ExcelWorksheets><x:ExcelWorksheet><x:Name>Table0</x:Name><x:WorksheetOptions><x:DisplayGridlines/></x:WorksheetOptions></x:ExcelWorksheet></x:ExcelWorksheets></x:ExcelWorkbook></xml><![endif]--></head><body><table><tr>
+	<th class="hidden">ID</th>
+	<th>Name</th>
+	<th>Address </th>
+	<th></th>
+</tr><tr>
+				<td class="hidden">37</td>
+				<td>
+	<input type="text" onfocus="this.oldvalue = this.value;" style="width: 220px" id="cname_37" name="cname_37" value="AKSNCA" onchange="updatevalue(&quot;customers&quot;,&quot;cname&quot;, this.value ,&quot;cid&quot;,&quot;37&quot;,&quot;&quot;,&quot;1&quot;,this, &quot;false&quot;)"></td>
+				<td>
+	<input type="text" onfocus="this.oldvalue = this.value;" style="width: 350px" id="caddress_37" name="caddress_37" value="plot 677 kibaha" onchange="updatevalue(&quot;customers&quot;,&quot;caddress&quot;, this.value ,&quot;cid&quot;,&quot;37&quot;,&quot;&quot;,&quot;&quot;,this, &quot;false&quot;)"></td>
+				<td class="delbtn"><button title="ADD EMAIL" class="eml" id="eml_37"><img src="/icons/email.png"></button></td>
+				<td class="delbtn"><button title="ADD PHONE" class="tel" id="tel_37"><img src="/icons/telephone.png"></button></td>
+				<td class="delbtn">
+	<button id="customers_37" title="DELETE THIS ITEM (37)?" onclick="event.preventDefault(); delitem(&quot;customers&quot;,&quot;cid&quot;,&quot;37&quot;,&quot;customers.php&quot;,&quot;#workspace&quot;)"><img src="/icons/delete.png"></button>
+	</td>
+		</tr><tr>
+				<td class="hidden">6</td>
+				<td>
+	<input type="text" onfocus="this.oldvalue = this.value;" style="width: 220px" id="cname_6" name="cname_6" value="ANDREA TUMIOTTO" onchange="updatevalue(&quot;customers&quot;,&quot;cname&quot;, this.value ,&quot;cid&quot;,&quot;6&quot;,&quot;&quot;,&quot;1&quot;,this, &quot;false&quot;)"></td>
+				<td>
+	<input type="text" onfocus="this.oldvalue = this.value;" style="width: 350px" id="caddress_6" name="caddress_6" value="Plot 146 Nyerere road DSM" onchange="updatevalue(&quot;customers&quot;,&quot;caddress&quot;, this.value ,&quot;cid&quot;,&quot;6&quot;,&quot;&quot;,&quot;&quot;,this, &quot;false&quot;)"></td>
+				<td class="delbtn"><button title="ADD EMAIL" class="eml" id="eml_6"><img src="/icons/email.png"></button></td>
+				<td class="delbtn"><button title="ADD PHONE" class="tel" id="tel_6"><img src="/icons/telephone.png"></button></td>
+				<td class="delbtn">
+	<button id="customers_6" title="DELETE THIS ITEM (6)?" onclick="event.preventDefault(); delitem(&quot;customers&quot;,&quot;cid&quot;,&quot;6&quot;,&quot;customers.php&quot;,&quot;#workspace&quot;)"><img src="/icons/delete.png"></button>
+	</td>
+		</tr><tr>
+				<td class="hidden">2</td>
+				<td>
+	<input type="text" onfocus="this.oldvalue = this.value;" style="width: 220px" id="cname_2" name="cname_2" value="FABRIZIO MAZZONI" onchange="updatevalue(&quot;customers&quot;,&quot;cname&quot;, this.value ,&quot;cid&quot;,&quot;2&quot;,&quot;&quot;,&quot;1&quot;,this, &quot;false&quot;)"></td>
+				<td>
+	<input type="text" onfocus="this.oldvalue = this.value;" style="width: 350px" id="caddress_2" name="caddress_2" value="Plot 11 Nyamwage TZ" onchange="updatevalue(&quot;customers&quot;,&quot;caddress&quot;, this.value ,&quot;cid&quot;,&quot;2&quot;,&quot;&quot;,&quot;&quot;,this, &quot;false&quot;)"></td>
+				<td class="delbtn"><button title="ADD EMAIL" class="eml" id="eml_2"><img src="/icons/email.png"></button></td>
+				<td class="delbtn"><button title="ADD PHONE" class="tel" id="tel_2"><img src="/icons/telephone.png"></button></td>
+				<td class="delbtn">
+	<button id="customers_2" title="DELETE THIS ITEM (2)?" onclick="event.preventDefault(); delitem(&quot;customers&quot;,&quot;cid&quot;,&quot;2&quot;,&quot;customers.php&quot;,&quot;#workspace&quot;)"><img src="/icons/delete.png"></button>
+	</td>
+		</tr><tr>
+				<td class="hidden">8</td>
+				<td>
+	<input type="text" onfocus="this.oldvalue = this.value;" style="width: 220px" id="cname_8" name="cname_8" value="GLENCORE LOGISTICS" onchange="updatevalue(&quot;customers&quot;,&quot;cname&quot;, this.value ,&quot;cid&quot;,&quot;8&quot;,&quot;&quot;,&quot;1&quot;,this, &quot;false&quot;)"></td>
+				<td>
+	<input type="text" onfocus="this.oldvalue = this.value;" style="width: 350px" id="caddress_8" name="caddress_8" value="South Africa" onchange="updatevalue(&quot;customers&quot;,&quot;caddress&quot;, this.value ,&quot;cid&quot;,&quot;8&quot;,&quot;&quot;,&quot;&quot;,this, &quot;false&quot;)"></td>
+				<td class="delbtn"><button title="ADD EMAIL" class="eml" id="eml_8"><img src="/icons/email.png"></button></td>
+				<td class="delbtn"><button title="ADD PHONE" class="tel" id="tel_8"><img src="/icons/telephone.png"></button></td>
+				<td class="delbtn">
+	<button id="customers_8" title="DELETE THIS ITEM (8)?" onclick="event.preventDefault(); delitem(&quot;customers&quot;,&quot;cid&quot;,&quot;8&quot;,&quot;customers.php&quot;,&quot;#workspace&quot;)"><img src="/icons/delete.png"></button>
+	</td>
+		</tr><tr>
+				<td class="hidden">33</td>
+				<td>
+	<input type="text" onfocus="this.oldvalue = this.value;" style="width: 220px" id="cname_33" name="cname_33" value="IMPALA" onchange="updatevalue(&quot;customers&quot;,&quot;cname&quot;, this.value ,&quot;cid&quot;,&quot;33&quot;,&quot;&quot;,&quot;1&quot;,this, &quot;false&quot;)"></td>
+				<td>
+	<input type="text" onfocus="this.oldvalue = this.value;" style="width: 350px" id="caddress_33" name="caddress_33" value="DSM - mandela road" onchange="updatevalue(&quot;customers&quot;,&quot;caddress&quot;, this.value ,&quot;cid&quot;,&quot;33&quot;,&quot;&quot;,&quot;&quot;,this, &quot;false&quot;)"></td>
+				<td class="delbtn"><button title="ADD EMAIL" class="eml" id="eml_33"><img src="/icons/email.png"></button></td>
+				<td class="delbtn"><button title="ADD PHONE" class="tel" id="tel_33"><img src="/icons/telephone.png"></button></td>
+				<td class="delbtn">
+	<button id="customers_33" title="DELETE THIS ITEM (33)?" onclick="event.preventDefault(); delitem(&quot;customers&quot;,&quot;cid&quot;,&quot;33&quot;,&quot;customers.php&quot;,&quot;#workspace&quot;)"><img src="/icons/delete.png"></button>
+	</td>
+		</tr><tr>
+				<td class="hidden">9</td>
+				<td>
+	<input type="text" onfocus="this.oldvalue = this.value;" style="width: 220px" id="cname_9" name="cname_9" value="LEOPARD TZ" onchange="updatevalue(&quot;customers&quot;,&quot;cname&quot;, this.value ,&quot;cid&quot;,&quot;9&quot;,&quot;&quot;,&quot;1&quot;,this, &quot;false&quot;)"></td>
+				<td>
+	<input type="text" onfocus="this.oldvalue = this.value;" style="width: 350px" id="caddress_9" name="caddress_9" value="Kurasini 1a plot 337" onchange="updatevalue(&quot;customers&quot;,&quot;caddress&quot;, this.value ,&quot;cid&quot;,&quot;9&quot;,&quot;&quot;,&quot;&quot;,this, &quot;false&quot;)"></td>
+				<td class="delbtn"><button title="ADD EMAIL" class="eml" id="eml_9"><img src="/icons/email.png"></button></td>
+				<td class="delbtn"><button title="ADD PHONE" class="tel" id="tel_9"><img src="/icons/telephone.png"></button></td>
+				<td class="delbtn">
+	<button id="customers_9" title="DELETE THIS ITEM (9)?" onclick="event.preventDefault(); delitem(&quot;customers&quot;,&quot;cid&quot;,&quot;9&quot;,&quot;customers.php&quot;,&quot;#workspace&quot;)"><img src="/icons/delete.png"></button>
+	</td>
+		</tr><tr>
+				<td class="hidden">5</td>
+				<td>
+	<input type="text" onfocus="this.oldvalue = this.value;" style="width: 220px" id="cname_5" name="cname_5" value="SERINA PAINE" onchange="updatevalue(&quot;customers&quot;,&quot;cname&quot;, this.value ,&quot;cid&quot;,&quot;5&quot;,&quot;&quot;,&quot;1&quot;,this, &quot;false&quot;)"></td>
+				<td>
+	<input type="text" onfocus="this.oldvalue = this.value;" style="width: 350px" id="caddress_5" name="caddress_5" value="Plot 62 Kurasini Dar es Salaam" onchange="updatevalue(&quot;customers&quot;,&quot;caddress&quot;, this.value ,&quot;cid&quot;,&quot;5&quot;,&quot;&quot;,&quot;&quot;,this, &quot;false&quot;)"></td>
+				<td class="delbtn"><button title="ADD EMAIL" class="eml" id="eml_5"><img src="/icons/email.png"></button></td>
+				<td class="delbtn"><button title="ADD PHONE" class="tel" id="tel_5"><img src="/icons/telephone.png"></button></td>
+				<td class="delbtn">
+	<button id="customers_5" title="DELETE THIS ITEM (5)?" onclick="event.preventDefault(); delitem(&quot;customers&quot;,&quot;cid&quot;,&quot;5&quot;,&quot;customers.php&quot;,&quot;#workspace&quot;)"><img src="/icons/delete.png"></button>
+	</td>
+		</tr><tr>
+				<td class="hidden">7</td>
+				<td>
+	<input type="text" onfocus="this.oldvalue = this.value;" style="width: 220px" id="cname_7" name="cname_7" value="SIMBA LOGISTICS" onchange="updatevalue(&quot;customers&quot;,&quot;cname&quot;, this.value ,&quot;cid&quot;,&quot;7&quot;,&quot;&quot;,&quot;1&quot;,this, &quot;false&quot;)"></td>
+				<td>
+	<input type="text" onfocus="this.oldvalue = this.value;" style="width: 350px" id="caddress_7" name="caddress_7" value="Tabata dump" onchange="updatevalue(&quot;customers&quot;,&quot;caddress&quot;, this.value ,&quot;cid&quot;,&quot;7&quot;,&quot;&quot;,&quot;&quot;,this, &quot;false&quot;)"></td>
+				<td class="delbtn"><button title="ADD EMAIL" class="eml" id="eml_7"><img src="/icons/email.png"></button></td>
+				<td class="delbtn"><button title="ADD PHONE" class="tel" id="tel_7"><img src="/icons/telephone.png"></button></td>
+				<td class="delbtn">
+	<button id="customers_7" title="DELETE THIS ITEM (7)?" onclick="event.preventDefault(); delitem(&quot;customers&quot;,&quot;cid&quot;,&quot;7&quot;,&quot;customers.php&quot;,&quot;#workspace&quot;)"><img src="/icons/delete.png"></button>
+	</td>
+		</tr><tr>
+				<td class="hidden">28</td>
+				<td>
+	<input type="text" onfocus="this.oldvalue = this.value;" style="width: 220px" id="cname_28" name="cname_28" value="TEST" onchange="updatevalue(&quot;customers&quot;,&quot;cname&quot;, this.value ,&quot;cid&quot;,&quot;28&quot;,&quot;&quot;,&quot;1&quot;,this, &quot;false&quot;)"></td>
+				<td>
+	<input type="text" onfocus="this.oldvalue = this.value;" style="width: 350px" id="caddress_28" name="caddress_28" value="Via larga 21" onchange="updatevalue(&quot;customers&quot;,&quot;caddress&quot;, this.value ,&quot;cid&quot;,&quot;28&quot;,&quot;&quot;,&quot;&quot;,this, &quot;false&quot;)"></td>
+				<td class="delbtn"><button title="ADD EMAIL" class="eml" id="eml_28"><img src="/icons/email.png"></button></td>
+				<td class="delbtn"><button title="ADD PHONE" class="tel" id="tel_28"><img src="/icons/telephone.png"></button></td>
+				<td class="delbtn">
+	<button id="customers_28" title="DELETE THIS ITEM (28)?" onclick="event.preventDefault(); delitem(&quot;customers&quot;,&quot;cid&quot;,&quot;28&quot;,&quot;customers.php&quot;,&quot;#workspace&quot;)"><img src="/icons/delete.png"></button>
+	</td>
+		</tr></table></body></html>

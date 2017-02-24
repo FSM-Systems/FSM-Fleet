@@ -1,0 +1,4 @@
+inc/config.inc
+inc/connection.inc
+backups/
+sitemap.xml

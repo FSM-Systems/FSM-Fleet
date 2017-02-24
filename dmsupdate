@@ -1,0 +1,22 @@
+#!/bin/bash
+cd  /truck-management-system
+for i in "$@"
+do
+case $i in
+	-u)
+		git pull origin master
+		;;
+	--clean)
+		git rm -r --cached .
+		git add .
+		;;
+	--perms)
+		chown -R www-data:www-data /truck-management-system
+		chmod -R 775 /truck-management-system
+		;;
+	-h|* )
+		printf " -u Update DMS sources from GIT\n --clean Parse .gitignore and update GIT repo to ignore files\n --perms Fix permissions for webserver"
+		;;
+esac
+done
+exit 0
